@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="180" src="https://media1.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif"  />
-</div>
+<h3 align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end mid-level developer</strong>  One day, who knows, maybe I'll become C-3PO, fluent in 6 million languages.</h3>
 
 ###
 
-<h3 align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end mid-level developer</strong>  One day, who knows, maybe I'll become C-3PO, fluent in 6 million languages.</h3>
+<div align="center">
+  <img height="180" src="https://media1.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif"  />
+</div>
 
 ###
 
