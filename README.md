@@ -9,8 +9,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thauan0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thauan0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thauan0&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thauan0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Thauan0&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thauan0&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -26,33 +28,37 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="39" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="39" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="39" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="39" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="39" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="39" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="39" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="39" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="39" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="39" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="39" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="39" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="39" alt="googlecloud logo"  />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="39" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="39" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="39" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="39" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="39" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="39" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="39" alt="jest logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="39" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="39" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="39" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="39" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="39" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/github/181717" height="39" alt="github logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="39" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="39" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="39" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="39" alt="prisma logo"  />
 </div>
 
 ###
@@ -62,11 +68,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -82,15 +88,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo"  />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
@@ -100,13 +108,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo"  />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
 </div>
 
 ###
@@ -117,15 +125,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="www.linkedin.com/in/thauan-carneiro-0428th" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
-  </a>
-  <a href="thauansosantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/thauan-carneiro-0428th/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/thauan.dev/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="38" alt="instagram logo"  />
+  </a>
+  <a href="thauansosantos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
   </a>
 </div>
 
