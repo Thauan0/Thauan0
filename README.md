@@ -1,63 +1,144 @@
-<h1 align="center"> Hello, World!</h1>
+<h3 align="center">
+  I ❤️ solve great challenges using tech.<br><br>
+  From backend to frontend using ReactTS, I’m <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. <br>
+  Today, I’m a <strong>mid-level Back-end Developer</strong> — One day, who knows, maybe I’ll become C-3PO, fluent in 6 million languages.
+</h3>
 
+###
 
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif" />
+</div>
 
+###
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end mid-level developer</strong>  One day, who knows, maybe I'll become C-3PO, fluent in 6 million languages.</p>&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thauan0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thauan0&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true" height="150" />
+</div>
 
+###
 
+<h2 align="center">Main Stacks:</h2>
 
+###
 
-## My Skills
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="50" alt="NestJS" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="50" alt="Jest" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" alt="Git" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="50" alt="npm" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" alt="Docker" />
+</div>
 
-#### Main Stack:
+###
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+<div align="right">
+  <img height="350" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+</div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+###
 
-#### Secondary Stack:
+<h2 align="center">Database:</h2>
 
+###
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+</div>
 
+###
 
-#### Studying in this moment:
+<h2 align="center">Studying at the moment:</h2>
 
+###
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-#### Databases:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="50" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" height="50" alt="Godot" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="50" alt="Photoshop" />
+</div>
 
+###
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<p align="center">Workstation Tools:</p>
 
-#### Workstation Tools:
+###
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="50" alt="Trello" />
+</div>
 
-&nbsp;
-&nbsp;
+###
 
-## Contacts:
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium Posts" />
+</div>
 
-<div> 
-<a href="https://www.instagram.com/thauan.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:thauansos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thauan-carneiro-040bb621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
- 
+###
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Thauan0/count.svg?" />
+</div>
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thauan-carneiro-0428th" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="36" />
+  </a>
+  <a href="mailto:thauansosantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="36" />
+  </a>
+  <a href="https://www.instagram.com/thauan.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="36" />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thauan0/Thauan0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thauan0/Thauan0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thauan0/Thauan0/output/pacman-contribution-graph.svg">
+</picture>
