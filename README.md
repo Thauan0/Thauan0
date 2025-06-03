@@ -15,6 +15,12 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
+</div>
+
+###
+
 <h2 align="center">Main Stacks:</h2>
 
 ###
@@ -47,12 +53,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="39" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="39" alt="npm logo"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
 </div>
 
 ###
