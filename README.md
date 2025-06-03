@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif"  />
-</div>
+<h3 align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end mid-level developer</strong>  One day, who knows, maybe I'll become C-3PO, fluent in 6 million languages.</h3>
 
 ###
 
-<h3 align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end mid-level developer</strong>  One day, who knows, maybe I'll become C-3PO, fluent in 6 million languages.</h3>
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif"  />
+</div>
 
 ###
 
@@ -67,6 +67,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-47a0-61f7-9024-c38762c0e609/raw?se=2025-06-03T22%3A33%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=d622da30-1b92-55d2-899d-1493da2efa38&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-03T18%3A27%3A36Z&ske=2025-06-04T18%3A27%3A36Z&sks=b&skv=2024-08-04&sig=mFh1qKsWKjsLzkTXGXTbuX/mo4Oyw5c0LhOQ/U80ncI%3D"  />
 </div>
 
 ###
